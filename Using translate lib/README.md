@@ -2,6 +2,8 @@ Sample GUI:
 
 ![image](https://user-images.githubusercontent.com/65457437/139577632-93c4ef78-b1a1-4b2e-b8c9-1d6ea63b0574.png)
 
+Sample conversions from English to Hindi
+
 ![image](https://user-images.githubusercontent.com/65457437/139577656-e4bce168-2fa1-48ef-b476-b255b2196ddc.png)
 
 
