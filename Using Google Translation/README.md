@@ -25,3 +25,5 @@ Available languages for interconversions:
 import googletrans
 print(googletrans.LANGUAGES)
 
+Link: https://www.geeksforgeeks.org/language-translator-using-google-api-in-python/
+
