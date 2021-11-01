@@ -9,6 +9,7 @@ Libraries needed:
 
 
 **Code for translation**
+</br></br>
 _from googletrans import Translator</br>
 translator = Translator()</br>
 results =translator.translate('हॅलो वर्ल्ड')_
